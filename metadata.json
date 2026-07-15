@@ -1,0 +1,6 @@
+{
+  "name": "Roll Book",
+  "description": "A student attendance register with custom roster management, daily roll call, and interactive statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
